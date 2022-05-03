@@ -1,4 +1,4 @@
-
+//
 // homeTask1
 let sity
 sity="Kyiv"
